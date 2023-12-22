@@ -1,0 +1,4 @@
+Here is the Result of Writing File : Here is the first File 
+Here is the second File This is the Node File System Here is the Result of Writing File : Here is the first File 
+Here is the second File This is the Node File System Here is the Result of Writing File : Here is the first File 
+Here is the second File This is the Node File System New One Fetched New One File Fetched Here is the first File and Here is the second File New One File Fetched Here is the first File and Here is the second File New One File Fetched Here is the first File and Here is the second File 
